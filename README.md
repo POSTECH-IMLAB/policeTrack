@@ -16,5 +16,5 @@ This repository provides implementation of police tracking.
   
   ```python experiments/scripts/test_tracker.py```
   
-  LGPL 2.1
+## LICENSE LGPL 2.1
  
